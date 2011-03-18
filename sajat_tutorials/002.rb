@@ -11,6 +11,8 @@ end
 
 #==============================
 #==============================
+# chop: utolsó karaktert levágja. ha az \r\n, akkor mindkettőt.
+# chomp: A végéről levágja a \r, \n vagy \r\n karaktereket.
 String x = "x"
 while (line = gets and !(line.chop.eql?(x)))
 	
@@ -18,10 +20,19 @@ while (line = gets and !(line.chop.eql?(x)))
 	puts "Ezt irtad be vazze: " + line.chop
 end
 
+
 y = "abc\n"
-print y + "haha"
-y = y.chop
-print y
+print y + "haha "
+print "chop: " + y.chop
+
+puts "URES SOR"
+
+print "chop chop: " + y.chop.chop
+
+puts "URES SOR"
+
+print "chomp: " + y.chomp
+
 
 
 
