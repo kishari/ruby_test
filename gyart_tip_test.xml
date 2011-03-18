@@ -1,0 +1,87 @@
+<Valasz>
+	<KodLista>
+		<ValDatum>20100901020757</ValDatum>
+		<ValtKezdDatum>20051101000000</ValtKezdDatum>
+		<GyLista>
+			<Gyartmany>
+				<Nev Kod="11266">OPEL</Nev>
+				<Fajta Kod="1">Személygépkocsi</Fajta>
+				<Fajta Kod="2">Tehergépkocsi</Fajta>
+				<Fajta Kod="4">Vontató</Fajta>
+				<Fajta Kod="3">Autóbusz</Fajta>
+			</Gyartmany>
+			<Tipus>
+				<Nev Kod="50792">ADMIRAL</Nev>
+				<Fajta Kod="1">Személygépkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="50793">AGILA</Nev>
+				<Fajta Kod="1">Személygépkocsi</Fajta>
+				<Fajta Kod="4">Vontató</Fajta>
+				<Fajta Kod="2">Tehergépkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="60738">A-H/NB</Nev>
+				<Fajta Kod="1">Személygépkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="57334">A-H/SW</Nev>
+				<Fajta Kod="1">Személygépkocsi</Fajta>
+				<Fajta Kod="2">Tehergépkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="59522">A-H/VAN</Nev>
+				<Fajta Kod="2">Tehergépkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="50796">ASCONA</Nev>
+				<Fajta Kod="1">Személygépkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="50797">ASTRA</Nev>
+				<Fajta Kod="1">Személygépkocsi</Fajta>
+				<Fajta Kod="2">Tehergépkocsi</Fajta>
+			</Tipus>
+		</GyLista>
+		<GyLista>
+			<Gyartmany>
+				<Nev Kod="6328">A. UNTERHOLZNER</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Gyartmany>
+			<Tipus>
+				<Nev Kod="32404">12 T 0 KHM 35</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Tipus>
+		</GyLista>
+		<GyLista>
+			<Gyartmany>
+				<Nev Kod="5925">ABBEY</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Gyartmany>
+			<Tipus>
+				<Nev Kod="66799">ARCHWAY</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="28184">CARAVAN</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="66775">EXPRESSION</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="66447">GT</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="66897">VOGUE</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Tipus>
+			<Tipus>
+				<Nev Kod="28183">10</Nev>
+				<Fajta Kod="6">Pótkocsi</Fajta>
+			</Tipus>
+		</GyLista>
+	</KodLista>
+</Valasz>
