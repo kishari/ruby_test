@@ -1,4 +1,7 @@
 #!/home/csaba/.rvm/rubies/ruby-1.9.2-p0/bin/ruby
+# coding: utf-8
+
+# A coding utf8 azért kell, hogy az ékezetes betűk miatt ne szálljon el.
 
 today = Time.now
 if today.saturday?
@@ -14,6 +17,7 @@ end
 # chop: utolsó karaktert levágja. ha az \r\n, akkor mindkettőt.
 # chomp: A végéről levágja a \r, \n vagy \r\n karaktereket.
 String x = "x"
+puts "Indul a ciklus. kilépés: " + x
 while (line = gets and !(line.chop.eql?(x)))
 	
 	puts x + " eql? " + line.chop + " : #{line.chop.eql?(x)}"
